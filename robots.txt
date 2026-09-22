@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uk-payslip-glossary.netlify.app/sitemap.xml
